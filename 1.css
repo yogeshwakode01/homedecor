@@ -1,0 +1,36 @@
+.body{
+    height: 100%;
+}
+
+.a{
+    text-align: center;
+    font-size: 50px;
+}
+
+.b{
+    display: flex;
+    justify-content: center;
+    border:5px solid rgb(3, 3, 3);
+    margin: 30px 680px;
+    flex-wrap:wrap;
+    border-radius: 15px;
+   
+}
+
+.c{
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    color: #fff;
+    padding: 12px 36px;
+    margin: 10px 870px;
+    letter-spacing: 2px;
+    border-radius: 40px;
+    background: linear-gradient(90deg,#d45d2e,#e48730);
+}
+
+.d{
+    font-size: 35px;
+    text-align: center;
+    text-indent: initial;
+}
